@@ -1,0 +1,3 @@
+[submodule "aline-core"]
+	path = aline-core
+	url = https://github.com/Aline-Financial/aline-core.git
